@@ -116,10 +116,10 @@ Two CSV files in the same directory:
 Prerequisite: R (≥ 3.0). No external packages required.
 
 7. Notes
+   
 
-The results should always be validated using the BMF tax calculator
-(https://www.bmf-steuerrechner.de/ekst/eingabeformekst.xhtml).
+The results should always be verified using the BMF tax calculator (https://www.bmf-steuerrechner.de/ekst/eingabeformekst.xhtml).
 
-Of course, the calculator does not replace tax advice.
+Of course, the calculator does not replace tax or legal advice.
 
-No liability is assumed for the code, examples, or results. 
+No liability is assumed for the code, examples, or results. The files are provided solely for informational and educational purposes. No warranty is given regarding the accuracy, completeness, or timeliness of the calculations. Use is at your own risk.
