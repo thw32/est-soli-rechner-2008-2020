@@ -33,7 +33,7 @@ Das Skript erwartet eine CSV-Datei `zve_input.csv`:
 - Folgezeilen: Zu versteuerndes Einkommen (zvE, § 2 Abs. 5 Satz 1 Hs. 1 EStG) in Euro je
   Besoldungsgruppe
 
-Beispiel: `zve_input.csv`
+Beispiel: [zve_input_beispiel.csv](zve_input_beispiel.csv) 
 
 4. Output
 
