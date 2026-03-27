@@ -56,9 +56,12 @@ Voraussetzung: R (≥ 3.0). Keine externen Pakete nötig.
 Die Ergebnisse sollten in jedem Fall mit dem BMF-Steuerrechner
 (https://www.bmf-steuerrechner.de/ekst/eingabeformekst.xhtml) validiert werden.
 
-Der Rechner ersetzt selbstverständlich keine Steuerberatung.
+Der Rechner ersetzt selbstverständlich keine Steuer- oder Rechtsberatung.
 
-Für Code, Beispiel und Ergebnisse wird keinerlei Haftung übernommen. 
+Für Code, Beispiel und Ergebnisse wird keinerlei Haftung übernommen.
+Die Dateien dienen ausschließlich Informations- und Bildungszwecken. Es wird
+keine Gewähr für die Richtigkeit, Vollständigkeit oder Aktualität der Berechnungen
+übernommen. Die Nutzung erfolgt auf eigene Verantwortung.
 
 (Machine Translation / deepl.com <free version>)
 
